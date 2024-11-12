@@ -11,6 +11,8 @@ Climate change has become a critical global issue, with profound implications fo
 
 - CO2 Emissions (kt): Data on carbon dioxide emissions measured in kilotons, reflecting the environmental impact.
 
+Cite: The Food and Agriculture Organization of the United Nations (FAO) FAO, 2022. FAOSTAT Climate Change, Temperature Change, available at: http://www.fao.org/faostat/en/#data/ET . FAO, Rome Italy.
+
 ## 💭 Key Questions to Address
 
 1. How has the global temperature changed over time, and how have individual countries been affected?
