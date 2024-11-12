@@ -1,8 +1,8 @@
-# Data Analysis for Global Temperature Change
+**Data Analysis for Global Temperature Change**
 
 Climate change has become a critical global issue, with profound implications for human life and survival. Understanding the patterns and causes of temperature fluctuations is essential to addressing this challenge.
 
-Data Sources:
+***Data Sources***:
 
 * Temperature Change Dataset: A record of global and regional temperature variations over time.
 
@@ -10,7 +10,7 @@ Data Sources:
 
 * CO2 Emissions (kt): Data on carbon dioxide emissions measured in kilotons, reflecting the environmental impact.
 
-Key Questions to Address:
+***Key Questions to Address***:
 
 1. How has the global temperature changed over time, and how have individual countries been affected?
 2. What are the trends in CO2 emissions worldwide?
